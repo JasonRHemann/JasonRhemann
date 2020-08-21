@@ -1,7 +1,5 @@
 ### Hi there, I'm Jason Hemann👋
 
-https://react-portfolio-phi.now.sh/images/j2.png
-
 - 🔭 I’m currently working on ... [Bridges to Prosperity] (https://bridgestoprosperity.org/)
 - 🌱 I’m currently learning ...  React Native
 - 👯 I’m looking to collaborate on ... Python Pojects
