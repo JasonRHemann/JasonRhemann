@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with ...  AWS
 - 💬 Ask me about ...  Anything
 - 📫 How to reach me: ... [Portfolio](http://jasonhemann.tech)
-- ⚡ Fun fact: ...
--->
+
+
