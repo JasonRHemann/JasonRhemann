@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Jason Hemann👋
 
-
-Here are some ideas to get you started:
+https://react-portfolio-phi.now.sh/images/j2.png
 
 - 🔭 I’m currently working on ... [Bridges to Prosperity] (https://bridgestoprosperity.org/)
 - 🌱 I’m currently learning ...  React Native
