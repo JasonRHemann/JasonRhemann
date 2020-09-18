@@ -1,5 +1,5 @@
 <img src="j.png"
-     alt="Markdown Monster icon"
+     alt="Jason Logo"
      style="float: left; margin-right: 10px;" />
      
 
@@ -21,14 +21,11 @@ Full-Stack Web Developer
 ![](https://img.shields.io/badge/Styling-MaterialUI-informational?style=flat&logo=material-ui&logoColor=white&color=0081CB)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
+![](https://img.shields.io/badge/Deployment-AWS_Amplify-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<JasonRhemann>&theme=<THEME_NAME>" />
-<a href="https://github.com/JasonRHemann/JasonRHemann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonRHemann&hide=html,&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <a href="https://github.com/JasonRHemann/JasonRHemann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonRHemann&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shota's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonRHemann&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jason's GitHub Stats" />
 </a>
 
 
