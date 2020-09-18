@@ -1,5 +1,5 @@
-<img src="j.png"
-     alt="Jason Logo"
+<img src="banner.png"
+     alt="Banner"
      style="float: left; margin-right: 10px;" />
      
 
