@@ -3,8 +3,7 @@
      style="float: left; margin-right: 10px;" />
      
 
-
-### Hi there, I'm Jason Hemann👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/JasonRHemann/JasonRHemann/master/wave.gif" width="30px">
 Full-Stack Web Developer
 
 ## 🔧 Technologies & Tools
