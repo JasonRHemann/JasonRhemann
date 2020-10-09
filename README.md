@@ -3,7 +3,7 @@
      style="float: left; margin-right: 10px;" />
      
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/JasonRHemann/JasonRHemann/master/wave.gif" width="30px">
+# Hello, there! <img src="https://raw.githubusercontent.com/JasonRHemann/JasonRHemann/master/wave.gif" width="30px">
 Full-Stack Web Developer
 
 ## 🔧 Technologies & Tools
@@ -22,10 +22,18 @@ Full-Stack Web Developer
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/Deployment-AWS_Amplify-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
+🔭 I’m currently working on a python bot
+- 🌱 I’m currently learning GraphQL and React Native
+- 👯 I’m looking to collaborate on game apps
+- 💬 Ask me about Lambda School
+- 📫 How to reach me: @hemann_jason
+
 
 <a href="https://github.com/JasonRHemann/JasonRHemann">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonRHemann&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jason's GitHub Stats" />
 </a>
+
+
 
 
 
