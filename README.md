@@ -1,4 +1,4 @@
-<img src="jasonbanner.png"
+<img src="banner.png"
      alt="Banner"
      style="float: left; margin-right: 10px;" />
      
