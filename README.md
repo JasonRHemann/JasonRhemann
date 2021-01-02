@@ -26,7 +26,8 @@ Full-Stack Web Developer
 - 🌱 I’m currently learning GraphQL and React Native
 - 👯 I’m looking to collaborate on game apps
 - 💬 Ask me about Lambda School
-- 📫 How to reach me: @hemann_jason
+- 📫 How to reach me: jrhemann@gmail.com
+
 
 
 <a href="https://github.com/JasonRHemann/JasonRHemann">
