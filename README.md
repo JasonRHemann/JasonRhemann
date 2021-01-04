@@ -22,9 +22,9 @@ Full-Stack Web Developer
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/Deployment-AWS_Amplify-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
-🔭 I’m currently working on a electron app
+🔭 I’m currently working on a Electron App
 - 🌱 I’m currently learning GraphQL and React Native
-- 👯 I’m looking to collaborate on game apps
+- 👯 I’m looking to collaborate on game Apps
 - 💬 Ask me about Lambda School
 - 📫 How to reach me: jrhemann@gmail.com
 
