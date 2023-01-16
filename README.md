@@ -24,8 +24,8 @@ Full-Stack Web Developer
 
 🔭 I’m currently working on a Electron App
 - 🌱 I’m currently learning Electron and React Native
-- 👯 I’m looking to collaborate on game Apps
-- 💬 Ask me about Lambda School
+- 👯 I’m looking to collaborate on Android and IOS apps
+- 💬 Ask me about Bloomtech
 - 📫 How to reach me: jrhemann@gmail.com
 
 
