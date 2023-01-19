@@ -1,4 +1,4 @@
-<img src="contribution.svg"
+<img src="contributions.svg"
      alt="Banner"
      style="float: left; margin-right: 10px;" />
 
