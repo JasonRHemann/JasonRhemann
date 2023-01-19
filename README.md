@@ -34,9 +34,6 @@ Full-Stack Web Developer
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonRHemann&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jason's GitHub Stats" />
 </a>
 
-<a href="https://github.com/ShotaKiko/ShotaKiko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShotaKiko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shota's GitHub Stats" />
-</a>
 
 
 
