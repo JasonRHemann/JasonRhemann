@@ -1,18 +1,18 @@
-<img src="jasonbanner.png"
+<img src="contribution.svg"
      alt="Banner"
      style="float: left; margin-right: 10px;" />
-     
 
 # Hello, there! <img src="https://raw.githubusercontent.com/JasonRHemann/JasonRHemann/master/wave.gif" width="30px">
+
 Full-Stack Web Developer
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0088CC)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
@@ -23,19 +23,12 @@ Full-Stack Web Developer
 ![](https://img.shields.io/badge/Deployment-AWS_Amplify-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 🔭 I’m currently working on a Electron App
+
 - 🌱 I’m currently learning Electron and React Native
 - 👯 I’m looking to collaborate on Android and IOS apps
 - 💬 Ask me about Bloomtech
 - 📫 How to reach me: jrhemann@gmail.com
 
-
-
 <a href="https://github.com/JasonRHemann/JasonRHemann">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonRHemann&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jason's GitHub Stats" />
 </a>
-
-
-
-
-
-
