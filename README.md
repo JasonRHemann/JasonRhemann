@@ -29,7 +29,6 @@ Full-Stack Web Developer
 - 💬 Ask me about Bloomtech
 - 📫 How to reach me: jrhemann@gmail.com
 
-[![Jason's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jasonrhemann&show_icons=true&theme=radical)](https://github.com/jasonrhemann/github-readme-stats)
 
 
 https://github.com/jasonrhemann/github-readme-stats
