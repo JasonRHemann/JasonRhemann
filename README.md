@@ -2,8 +2,7 @@
      alt="Banner"
      style="float: left; margin-right: 10px;" />
 
-**# Hello, there! <img src="https://raw.githubusercontent.com/JasonRHemann/JasonRHemann/master/wave.gif" width="30px">
-**Yo, I’m [Your Name] 😎💻
+**Yo, I’m Jason Hemann 😎💻
 Full-stack software engineer running code from the frontend streets to the backend underground.
 I build slick apps, break stubborn bugs, and make databases talk when they’d rather stay silent. I’m fluent in TypeScript, dangerous with APIs, and on a first-name basis with production incidents.
 Stack:
