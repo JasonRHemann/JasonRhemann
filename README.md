@@ -2,25 +2,6 @@
      alt="Banner"
      style="float: left; margin-right: 10px;" />
 
-**Yo, I’m Jason Hemann 😎💻
-Full-stack software engineer running code from the frontend streets to the backend underground.
-I build slick apps, break stubborn bugs, and make databases talk when they’d rather stay silent. I’m fluent in TypeScript, dangerous with APIs, and on a first-name basis with production incidents.
-Stack:
-  Frontend  -> React, Next.js, Tailwind
-  Backend   -> Node.js, Python, REST, GraphQL
-  Data      -> PostgreSQL, Redis, MongoDB
-  Ops       -> Docker, CI/CD, Cloud
-
-Specialties:
-  - Turning ideas into shipped products
-  - Debugging bugs with no alibi
-  - Writing clean code with dirty intentions
-  - Making servers behave
-I don’t chase trends—I deploy them.
-Pull requests get reviewed. Bugs get handled. Features get shipped.
-Stay curious. Stay dangerous. Ship something. 🔥🐍
-Full-Stack Web Developer
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
@@ -37,13 +18,26 @@ Full-Stack Web Developer
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/Deployment-AWS_Amplify-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
-🔭 I’m currently working on a Electron App
 
-- 🌱 I’m currently learning Electron and React Native
-- 👯 I’m looking to collaborate on Android and IOS apps
-- 💬 Ask me about Bloomtech
-- 📫 How to reach me: jrhemann@gmail.com
+Yo, I’m Jason Hemann 😎💻 Full-stack software engineer running code from the frontend streets to the backend underground.
+I build slick apps, break stubborn bugs, and make databases talk when they’d rather stay silent. I’m fluent in TypeScript, dangerous with APIs, and on a first-name basis with production incidents.
 
+Stack:
+  Frontend  -> React, Next.js, Tailwind
+  Backend   -> Node.js, Python, REST, GraphQL
+  Data      -> PostgreSQL, Redis, MongoDB
+  Ops       -> Docker, CI/CD, Cloud
+
+Specialties:
+  - Turning ideas into shipped products
+  - Debugging bugs with no alibi
+  - Writing clean code with dirty intentions
+  - Making servers behave
+  - 
+I don’t chase trends—I deploy them.
+Pull requests get reviewed. Bugs get handled. Features get shipped.
+Stay curious. Stay dangerous. Ship something. 🔥🐍
+Full-Stack Web Developer
 
 
 https://github.com/jasonrhemann/github-readme-stats
