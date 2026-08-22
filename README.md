@@ -2,8 +2,24 @@
      alt="Banner"
      style="float: left; margin-right: 10px;" />
 
-# Hello, there! <img src="https://raw.githubusercontent.com/JasonRHemann/JasonRHemann/master/wave.gif" width="30px">
+**# Hello, there! <img src="https://raw.githubusercontent.com/JasonRHemann/JasonRHemann/master/wave.gif" width="30px">
+**Yo, I’m [Your Name] 😎💻
+Full-stack software engineer running code from the frontend streets to the backend underground.
+I build slick apps, break stubborn bugs, and make databases talk when they’d rather stay silent. I’m fluent in TypeScript, dangerous with APIs, and on a first-name basis with production incidents.
+Stack:
+  Frontend  -> React, Next.js, Tailwind
+  Backend   -> Node.js, Python, REST, GraphQL
+  Data      -> PostgreSQL, Redis, MongoDB
+  Ops       -> Docker, CI/CD, Cloud
 
+Specialties:
+  - Turning ideas into shipped products
+  - Debugging bugs with no alibi
+  - Writing clean code with dirty intentions
+  - Making servers behave
+I don’t chase trends—I deploy them.
+Pull requests get reviewed. Bugs get handled. Features get shipped.
+Stay curious. Stay dangerous. Ship something. 🔥🐍
 Full-Stack Web Developer
 
 ## 🔧 Technologies & Tools
